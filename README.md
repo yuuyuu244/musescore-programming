@@ -3,7 +3,7 @@
 this document is for beginners creating score in computer 
 
 @author : Yuki-kikuya
-other pages : (Music Theory)[./theory.md]
+other pages : [Music Theory](./theory.md)
 
 ## 1. What's Musescore?
 
@@ -11,7 +11,7 @@ other pages : (Music Theory)[./theory.md]
 
 this software is for the person that create music scores.
 
-* refs:(What is MuseScore? What is MuseScore.com?)[https://help.musescore.com/hc/en-us/articles/210257565-What-is-MuseScore-What-is-MuseScore-com-]
+* refs: [What is MuseScore? What is MuseScore.com?](https://help.musescore.com/hc/en-us/articles/210257565-What-is-MuseScore-What-is-MuseScore-com-)
 
 
 
@@ -19,7 +19,7 @@ this software is for the person that create music scores.
 
 first of all, you should download this software.  
 
-access this link( (https://musescore.org/en/download)[https://musescore.org/en/download] )
+access this link( [download page](https://musescore.org/en/download)[https://musescore.org/en/download) )
 
 ![image-20220430013036383](README.assets/image-20220430013036383.png)
 
@@ -57,7 +57,7 @@ please select the software that adequate your OS, CPU ,etc.
 ![image-20220430014456307](README.assets/image-20220430014456307.png)
 
 you should measure BPM in this app
-(BPM Counter)[https://bpm.mononichi.com/]
+[BPM Counter](https://bpm.mononichi.com/)
 
 ![image-20220430014915830](README.assets/image-20220430014915830.png)
 
